@@ -44,9 +44,7 @@ This repository aims to curate a comprehensive collection of resources to suppor
 ### Traditional Machine Learning Approaches
 - "Failure Diagnosis Using Decision Trees" – Chen et al., ICAC 2004. [Link](http://www.cs.berkeley.edu/~brewer/papers/icac2004_chen_diagnosis.pdf)  
 - "Failure Prediction in IBM BlueGene/L Event Logs" – Liang et al., ICDM 2007. [Link](https://www.researchgate.net/publication/4324148_Failure_Prediction_in_IBM_BlueGeneL_Event_Logs)  
-- "Isolation Forest" – Liu et al., ICDM 2008. [Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)  
-- "Large-Scale System Problems Detection by Mining Console Logs" – Xu et al., SOSP 2009. [Link](http://iiis.tsinghua.edu.cn/~weixu/files/sosp09.pdf)  
-- "Fingerprinting the Datacenter: Automated Classification of Performance Crises" – Bodík et al., EuroSys 2010. [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/07/hiLighter.pdf)  
+- "Large-Scale System Problems Detection by Mining Console Logs" – Xu et al., SOSP 2009. [Link](http://iiis.tsinghua.edu.cn/~weixu/files/sosp09.pdf)   
 - "Mining Invariants from Console Logs for System Problem Detection" – Lou et al., ATC 2010. [Link](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Lou.pdf)  
 - "Log Clustering based Problem Identification for Online Service Systems" – Lin et al., ICSE 2016. [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/ICSE-2016-2-Log-Clustering-based-Problem-Identification-for-Online-Service-Systems.pdf)  
 
