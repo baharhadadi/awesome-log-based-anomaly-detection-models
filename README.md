@@ -32,20 +32,27 @@ This repository aims to curate a comprehensive collection of resources to suppor
 ## Awesome Tutorials and Tools
 - ![GitHub Repo stars](https://img.shields.io/github/stars/IBM/drain3?style=social) [Drain3](https://github.com/IBM/drain3): A Python implementation of the Drain log parsing algorithm with online capabilities.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/logparser?style=social) [LogParse](https://github.com/logpai/logparser): A benchmark of various log parsers.
-- 
+  
 ## Awesome Papers
 
 ### Survey and Overview Papers
-- "" – Zhang et al., 2022. [Link]()
+- "Log-based Anomaly Detection with Deep Learning: How Far Are We?" – Le and Zhang, 2022. [Link](https://doi.org/10.1145/3510003.3510155)
+- "Deep Learning or Classical Machine Learning? An Empirical Study on Log-Based Anomaly Detection" – Yu el al., 2024. [Link](https://doi.org/10.1145/3597503.36233)
+- "A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques" – Landauer et al., 2024. [Link](https://doi.org/10.1145/3660768)  
+- "A comprehensive study of machine learning techniques for log-based anomaly detection" – Ali et al., 2025. [Link](https://doi.org/10.1007/s10664-025-10669-3)
 
 ### Deep Learning Approaches
-- "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019. [Link]()
-- "LogRobust: Robust Log-based Anomaly Detection under Unstable Log Data" – Zhang et al., 2023. [Link]()
+- "DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning" – Du et al., 2017. [Link](https://doi.org/10.1145/3133956.3134015)
+- "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019. [Link](https://doi.org/10.24963/ijcai.2019/658)
+- "Robust Log-Based Anomaly Detection on Unstable Log Data" – Zhang et al., 2019. [Link](https://dl.acm.org/doi/10.1145/3338906.3338931)
+- "Detecting Anomaly in Big Data System Logs Using Convolutional Neural Network" – Lu et al., 2018. [Link](https://doi.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00037)
+- "Semi-supervised Log-based Anomaly Detection via Probabilistic Label Estimation" –  Yang et al., 2021. [Link](https://doi.org/10.1109/ICSE43902.2021.00130)
+- "Log-based Anomaly Detection Without Log Parsing" – Le and Zhang et al., 2022. [Link](https://doi.org/10.1109/ASE51524.2021.9678773)
 
 ### Language Model-based Methods
-- "LogGPT" – Zhang et al., 2023. [Link]()
-- "LogBERT" – Wang et al., 2021. [Link]()
-- "FlexLog" – Hadadi et al., 2025. [Link]()
+- "LogBERT: Log Anomaly Detection via BERT" – Guo et al., 2021. [Link](https://arxiv.org/abs/2103.04475)
+- "Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies" – Liu et al., 2024. [Link](https://doi.org/10.1145/3643916.3644408)
+- "LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs" – Hadadi et al., 2025. [Link](https://arxiv.org/pdf/2406.07467)
 
 ## Other Awesome Resources
 - [LogPAI Project](https://www.logpai.com/): A central hub for tools and datasets in log analysis.
