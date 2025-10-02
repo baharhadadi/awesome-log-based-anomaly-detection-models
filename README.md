@@ -1,4 +1,4 @@
-# Awesome Log-based Anomaly Detection
+# Awesome Log-based Anomaly Detection[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Log-based anomaly detection is a critical area of research and practice for ensuring the reliability and security of complex systems. With the increasing volume and complexity of log data, a wide variety of techniques have emerged, ranging from traditional machine learning and statistical models to deep learning and large language model (LLM)-based solutions.
 
@@ -41,13 +41,26 @@ This repository aims to curate a comprehensive collection of resources to suppor
 - "A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques" – Landauer et al., 2024. [Link](https://doi.org/10.1145/3660768)  
 - "A comprehensive study of machine learning techniques for log-based anomaly detection" – Ali et al., 2025. [Link](https://doi.org/10.1007/s10664-025-10669-3)
 
+### Traditional Machine Learning Approaches
+- "Failure Diagnosis Using Decision Trees" – Chen et al., ICAC 2004. [Link](http://www.cs.berkeley.edu/~brewer/papers/icac2004_chen_diagnosis.pdf)  
+- "Failure Prediction in IBM BlueGene/L Event Logs" – Liang et al., ICDM 2007. [Link](https://www.researchgate.net/publication/4324148_Failure_Prediction_in_IBM_BlueGeneL_Event_Logs)  
+- "Isolation Forest" – Liu et al., ICDM 2008. [Link](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)  
+- "Large-Scale System Problems Detection by Mining Console Logs" – Xu et al., SOSP 2009. [Link](http://iiis.tsinghua.edu.cn/~weixu/files/sosp09.pdf)  
+- "Fingerprinting the Datacenter: Automated Classification of Performance Crises" – Bodík et al., EuroSys 2010. [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/07/hiLighter.pdf)  
+- "Mining Invariants from Console Logs for System Problem Detection" – Lou et al., ATC 2010. [Link](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Lou.pdf)  
+- "Log Clustering based Problem Identification for Online Service Systems" – Lin et al., ICSE 2016. [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/ICSE-2016-2-Log-Clustering-based-Problem-Identification-for-Online-Service-Systems.pdf)  
+
+  
 ### Deep Learning Approaches
 - "DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning" – Du et al., 2017. [Link](https://doi.org/10.1145/3133956.3134015)
+- "Detecting Anomaly in Big Data System Logs Using Convolutional Neural Network" – Lu et al., 2018. [Link](https://doi.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00037)
 - "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019. [Link](https://doi.org/10.24963/ijcai.2019/658)
 - "Robust Log-Based Anomaly Detection on Unstable Log Data" – Zhang et al., 2019. [Link](https://dl.acm.org/doi/10.1145/3338906.3338931)
-- "Detecting Anomaly in Big Data System Logs Using Convolutional Neural Network" – Lu et al., 2018. [Link](https://doi.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00037)
+- "HitAnomaly: Hierarchical Transformers for Anomaly Detection in System Log" –  Huang et al., 2020. [Link](https://doi.org/10.1109/TNSM.2020.3034647)
+- "SwissLog: Robust and Unified Deep Learning Based Log Anomaly Detection for Diverse Faults" –  Li et al., 2021. [Link](https://doi.org/10.1109/ISSRE5003.2020.00018)
 - "Semi-supervised Log-based Anomaly Detection via Probabilistic Label Estimation" –  Yang et al., 2021. [Link](https://doi.org/10.1109/ICSE43902.2021.00130)
 - "Log-based Anomaly Detection Without Log Parsing" – Le and Zhang et al., 2022. [Link](https://doi.org/10.1109/ASE51524.2021.9678773)
+- "EvLog: Identifying Anomalous Logs over Software Evolution" – Huo et al., 2023. [Link](https://arxiv.org/abs/2306.01509)
 
 ### Language Model-based Methods
 - "LogBERT: Log Anomaly Detection via BERT" – Guo et al., 2021. [Link](https://arxiv.org/abs/2103.04475)
