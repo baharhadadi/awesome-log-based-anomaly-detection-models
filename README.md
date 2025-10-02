@@ -63,6 +63,7 @@ This repository aims to curate a comprehensive collection of resources to suppor
 ### Language Model-based Methods
 - "LogBERT: Log Anomaly Detection via BERT" – Guo et al., 2021. [Link](https://arxiv.org/abs/2103.04475)
 - "Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies" – Liu et al., 2024. [Link](https://doi.org/10.1145/3643916.3644408)
+- "GELog:A GPT-Enhanced Log Representation Method for Anomaly Detection" – He et al., 2025. [Link](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00189)
 - "LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs" – Hadadi et al., 2025. [Link](https://arxiv.org/pdf/2406.07467)
 
 ## Other Awesome Resources
